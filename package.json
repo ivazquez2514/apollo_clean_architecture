@@ -1,0 +1,19 @@
+{
+  "name": "apollo_clean_architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon src/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Vázquez",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.15.1",
+    "apollo-server-express": "^2.15.1",
+    "express": "^4.17.1",
+    "graphql": "^15.3.0",
+    "nodemon": "^2.0.4"
+  }
+}
