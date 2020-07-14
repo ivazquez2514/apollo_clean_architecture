@@ -1,0 +1,25 @@
+{
+    "books": [
+        {
+            "title": "Harry Potter and the Chamber of Secrets",
+            "author": {
+                "name": "J.K. Rowling"
+            }        },
+        {
+            "title": "Jurassic Park",
+            "author": {
+                "name": "Michael Crichton"
+            }
+        }
+    ],  
+  "authors": [
+      {
+          "id": 1,
+          "name": "J.K. Rowling"
+      },
+      {
+          "id": 2,
+          "name": "Michael Crichton"
+      }
+  ]
+}
